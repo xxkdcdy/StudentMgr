@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/insert"
+        android:title="增加">
+    </item>
+    <item
+        android:id="@+id/refresh"
+        android:title="刷新">
+    </item>
+    <item
+        android:id="@+id/phonePlace"
+        android:title="归属地">
+    </item>
+    <item
+        android:id="@+id/weather"
+        android:title="查询天气">
+    </item>
+    <item
+        android:id="@+id/QueryWeek"
+        android:title="查询星期数">
+    </item>
+    <item
+        android:id="@+id/config"
+        android:title="设置">
+    </item>
+</menu>

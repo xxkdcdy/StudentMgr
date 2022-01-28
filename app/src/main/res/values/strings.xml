@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">StudentMgr</string>
+    <string name="title">上机12 @xxkdcdy</string>
+    <string name="textIn">录入信息</string>
+    <string name="submit">提交</string>
+    <string name="number">学号</string>
+    <string name="name">姓名</string>
+    <string name="sex">性别</string>
+    <string name="school">学院</string>
+    <string name="major">专业</string>
+    <string name="hobby">爱好</string>
+    <string name="login">登录</string>
+    <string name="username">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="birth">生日</string>
+    <string name="signature">个性签名</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_config">设置</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">账号与安全</string>
+    <string name="sync_header">通用</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">账号</string>
+    <string name="reply_title">字体大小</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">横屏模式</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
